@@ -1,0 +1,86 @@
+.appointment-container {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  max-height: 15%;
+  background-color: white;
+  margin: 0 auto;
+  align-items: center;
+  border-top: 1px solid gray;
+  min-height: 200px;
+  justify-content: space-between;
+}
+
+.appointment-list {
+  width: 80%;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.calendar-pic {
+  width: 100px;
+  margin-right: 10%;
+}
+
+.appointment-box {
+  height: 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: ;
+}
+
+.appointment-box input {
+  margin: 0 auto;
+}
+
+.appointment-box h3 {
+  margin: 0;
+}
+
+.appointment-box button {
+  margin-bottom: 10px;
+}
+
+.calendar-container {
+  display: flex;
+  flex-direction: row;
+  margin-right: 10px;
+  width: 320px;
+}
+
+.time-details {
+  margin-right: 10px;
+  text-align: left;
+  width: 200px;
+}
+
+.patient-appointment-intro {
+  width: 60%;
+  margin: 30px auto 40px auto;
+}
+
+.patient-appointment-intro p {
+  font-size: 18px;
+}
+
+.doc-container {
+  margin-bottom: 30px;
+}
+
+.file-list {
+  width: 350px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#doc-link:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}

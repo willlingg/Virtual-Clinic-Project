@@ -1,0 +1,20 @@
+.portal-link {
+  /* width: 200px; */
+  margin: auto;
+  background-color: white;
+  align-content: center;
+  vertical-align: middle;
+}
+
+.sub-link {
+  border-radius: 5%;
+  vertical-align: middle;
+  margin: auto;
+}
+
+.landing-page-container {
+  display: flex;
+  padding-top: 20%;
+  margin: auto 0;
+  flex-direction: row;
+}

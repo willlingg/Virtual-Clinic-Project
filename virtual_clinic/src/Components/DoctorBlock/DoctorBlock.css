@@ -1,0 +1,12 @@
+.doc-block-container {
+  width: 80%;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: space-evenly;
+  /* align-items: center; */
+}
+
+.doc-block-container h2 {
+  margin-top: 0;
+}

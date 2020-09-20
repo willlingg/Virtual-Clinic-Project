@@ -1,0 +1,31 @@
+.time-select {
+  width: 80%;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+}
+
+.date-selection {
+  width: 300px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.submit-button {
+  margin-top: 40px;
+}
+
+.submit {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.height-setter {
+  min-height: 700px;
+  background-color: white;
+  width: 80%;
+  margin: 0 auto;
+}
